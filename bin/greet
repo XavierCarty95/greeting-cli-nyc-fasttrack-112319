@@ -5,4 +5,4 @@ require_relative "../lib/greeting.rb"
 # code the #greeting method here!
 
   puts "Hi my name is Xavier what is your name?"
- greet(name)
+ greeting(name)
