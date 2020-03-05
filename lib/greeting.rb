@@ -2,4 +2,4 @@
 def greeting(name)
   puts "Hi my name is Xavier what is your name?"
   puts "Hello #{name}. It's nice to meet you."
-end 
+end
