@@ -3,6 +3,6 @@ require_relative "../lib/greeting.rb"
 
 # code your CLI here!
 # code the #greeting method here!
-def greeting(name)
+
   puts "Hi my name is Xavier what is your name?"
-end
+ greet(name)
