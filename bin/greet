@@ -5,5 +5,5 @@ require_relative "../lib/greeting.rb"
 # code the #greeting method here!
 
   puts "Hi my name is Xavier what is your name?
-  name = gets.strimp
+  name = gets.strip
   greeting(name)
